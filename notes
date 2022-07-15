@@ -1,0 +1,13 @@
+npm i mongodb
+npm i jsonwebtoken // passport
+npm i sha1
+npm i dotenv
+npm i @hapi/joi
+npm i forever -g // permite seguir ejecutando el servidor aunque se cierre la terminal
+npm i artillery // pruebas de carga
+
+
+utils
+middlewares
+models
+schemas
